@@ -1,0 +1,17 @@
+# Unreal generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.pdb
+*.obj
+*.log
